@@ -1,2 +1,2 @@
-# Char-RNN
-Character to character RNN(LSTM)
+# Book writer using LSTM
+Character to character LSTM
